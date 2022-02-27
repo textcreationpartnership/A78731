@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties declaration to all his loving subjects of his Kingdome of Scotland. With an act of the Lords of His Majesties Privie Counsell for the printing and publishing thereof.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78731</idno>
+            <idno type="STC">Wing C2245</idno>
+            <idno type="STC">Thomason E104_24</idno>
+            <idno type="STC">ESTC R13615</idno>
+            <idno type="EEBO-CITATION">99859508</idno>
+            <idno type="PROQUEST">99859508</idno>
+            <idno type="VID">111594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111594)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties declaration to all his loving subjects of his Kingdome of Scotland. With an act of the Lords of His Majesties Privie Counsell for the printing and publishing thereof.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, printer to the Kings most Excellent Majestie,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111594:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>THE KINGS MAJESTIES DECLARATION To all His loving Subjects of His Kingdome of SCOTLAND.</p>
+            <p>WITH <hi>An Act of the Lords of His Majeſties Privie Councell for the printing and publiſhing thereof.</hi>
+            </p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1643.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:111594:2"/>
+            <!-- PDF PAGE 56 -->
+            <opener>
+               <dateline>At Edinburgh <date>the firſt day of <hi>June,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords of His Majeſties Privie Councell of Scot<g ref="char:EOLhyphen"/>land, having read and conſidered His Majeſties Letter and Declaration this day exhibit unto them by the Earl of <hi>Lanerick</hi> His Majeſties Secretarie, Do with all humble duty and thankfulneſſe acknowledge His Majeſties grace and goodneſſe, ſo fully expreſt therein towards this Kingdome, And that the ſame may be made known to all His Majeſties good Subjects, do, conforme to His Majeſties war<g ref="char:EOLhyphen"/>rant, ordain the ſaid Declaration to be printed and publiſhed at the market Croſſe of <hi>Edinburgh,</hi> by Heraulds and Purſe<g ref="char:EOLhyphen"/>vants, with ſound of Trumpet and diſplayed coats of Arms, and that the Sheriffs, Stewarts, Bailiffs of Regalities and their Deputes, and Magiſtrates of Burrows within this King<g ref="char:EOLhyphen"/>dome, have a ſpeciall care to ſee the ſame with all diligence publiſhed and proclaimed at the market Croſſes of all Burghes within their ſeverall juriſdictions.</p>
+            <closer>
+               <signed>
+                  <hi>Arch. Primeroſe</hi> Cler. S. Conſ.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="royal_declaration">
+            <pb n="1" facs="tcp:111594:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>HIS MAJESTIES Declaration to his loving Subjects of his Kingdome of SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S there hath been no meanes left un<g ref="char:EOLhyphen"/>attempted by ſome ſeditious perſons, which the malice and wit of rebellion could deviſe, to infect and poiſon the affections and loyalty of our good Sub<g ref="char:EOLhyphen"/>jects of our Kingdome of England, and to with-draw their hearts from us, by the moſt pernici<g ref="char:EOLhyphen"/>ous and deſperate calumnies that could be invented, to
+<pb n="2" facs="tcp:111594:3"/>
+               <!-- PDF PAGE 57 -->under-value and leſſen Our reputation with Forraigne Princes, by injuries and affronts upon their publick Mi<g ref="char:EOLhyphen"/>niſters, and by procuring Agents to be ſent, qualified for negotiation, without Our conſent; and thus to expoſe Us and Our Regall Authoritie to ſcorn and con<g ref="char:EOLhyphen"/>tempt, by aſſuming a power over Us: So theſe pernici<g ref="char:EOLhyphen"/>ous contrivers of theſe bloudy diſtempers, have not de<g ref="char:EOLhyphen"/>lighted in any art more, then in that by which they have hoped to ſtirre up Our good Subjects of that Our Na<g ref="char:EOLhyphen"/>tive Kingdome of Scotland to joyne with them, and to infuſe into them a jealouſie and diſ-eſteem of Our true affection, and Our gracious intentions towards that Na<g ref="char:EOLhyphen"/>tion. To this purpoſe they have uſed great induſtrie to convey into that Our Kingdome, and to ſcatter and diſ<g ref="char:EOLhyphen"/>perſe their diverſe ſeditious pamphlets, framed and con<g ref="char:EOLhyphen"/>trived againſt Our Perſon and Government, and have procured Agents to be ſent to reſide there, and to pro<g ref="char:EOLhyphen"/>mote their deſignes. One of which lately reſident there, one <hi>Pickering,</hi>
+               <note place="margin">Theſe are <hi>Pickerings</hi> in<g ref="char:EOLhyphen"/>formations, which We hope <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lſe.</note> by his Letters of the <hi>9.</hi> of January, from Edinburgh to Maſter <hi>Pym, aſſures him of the concurrence of that Kingdome, and that the Miniſters in the pulpits doe in down-right termes preſſe the taking up of Armes.</hi> And in a<g ref="char:EOLhyphen"/>nother of his Letters of the ſame date, to Sir <hi>John Clat<g ref="char:EOLhyphen"/>worthy, worthy,</hi> he ſayes, <hi>That the trumpets ſounded to the Battell, and all cryed, Arme, arme.</hi> With many other bold, ſcandalous, and ſeditious paſſages, very derogatorie from that dutie and affection which We are moſt confident Our good Subjects of that Our Native Kingdom bear unto Us. To this purpoſe they traduce Us with the raiſing and ma<g ref="char:EOLhyphen"/>king of Warre againſt Our Parliament; of having an Armie of Papiſts, and favouring that Religion; of endea<g ref="char:EOLhyphen"/>vouring to take away the libertie and propertie of Our Subjects. And upon theſe grounds they have procured
+<pb n="3" facs="tcp:111594:3"/>
+               <!-- PDF PAGE 57 -->a publick Declaration, to invite Our good Subjects of that Our Kingdome of Scotland, to joyne with them, and to take up Armes againſt Us their naturall Liege Lord. Laſtly, to this purpoſe they endeavour aſwell in publick, as by ſecret ſly inſinuation, to beget an appre<g ref="char:EOLhyphen"/>henſion in them, That if we prevail ſo farre here, as by the bleſſing of God, to preſerve Our Self from the ruine they have deſigned to Us, that the ſame will have a dan<g ref="char:EOLhyphen"/>gerous influence upon that Our Kingdome of Scotland, and the Peace eſtabliſhed there; and that the good Laws lately conſented to by Us, for the happineſſe and wel<g ref="char:EOLhyphen"/>fare of that our Native Kingdome, will be no longer obſerved and maintained by Us, then the ſame neceſſity which they ſay extorted them from Us, hangs upon Us; but that We will turn all Our Forces againſt them: A calumnie ſo groundleſly and impiouſly raiſed, that if We are in any degree conſcious to Our Self of ſuch wicked intentions, We ſhould not only not expect a du<g ref="char:EOLhyphen"/>tifull ſenſe in that Our Native Kingdome of Our ſuffe<g ref="char:EOLhyphen"/>rings, but ſhould think Our Self as unworthy of ſo great bleſſings and eminent protection, as We have received from the hands of the Almighty, to whom We know We muſt yeeld a dear accompt for any breach of truſt, or failing of Our duty towards Our People.</p>
+            <p>But as We have taken eſpeciall care from time to time to informe Our good Subjects of that Our Native Kingdome of the Occurrences here, particularly by Our Declaration of the 12 of Auguſt, wherein is a plain clear narration of the beginning and progreſſe of Our ſufferings to that time; So the bold and unwarrantable proceedings of theſe ſeditious perſons, have been ſo publique and viſible to the world, that Our good Sub<g ref="char:EOLhyphen"/>jects of Scotland could not but take notice of them, and
+<pb n="4" facs="tcp:111594:4"/>
+               <!-- PDF PAGE 58 -->have obſerved, that after we had freely and voluntarily conſented to ſo many Acts of Parliament, as not only repaired all former grievances, but alſo added whatſoe<g ref="char:EOLhyphen"/>ver was propoſed to Us for the future benefit and ſecu<g ref="char:EOLhyphen"/>rity of Our Subjects, in ſo much as in truth there wan<g ref="char:EOLhyphen"/>ted nothing to make the Nation completely happy, but a juſt ſenſe of their own excellent condition; a few diſcontented ambitious and factious perſons, ſo far pre<g ref="char:EOLhyphen"/>vailed over the weakneſſe of others, that in ſtead of re<g ref="char:EOLhyphen"/>ceiving that return of thanks and a knowledgment, which we expected and deſerved, Our people were poyſoned with ſeditious and ſcandalous feares and jea<g ref="char:EOLhyphen"/>louſies concerning Us; We were encountred with more importunate and unſeaſonable demands; and at laſt were driven by force and tumults, to flee from Our City of London for the ſafety of Our life: after which We were ſtill purſued with unheard-of inſolencies and indignities; and ſuch members of either houſe, as refu<g ref="char:EOLhyphen"/>ſed to joyne in thoſe unjuſtifiable reſolutions, likewiſe driven from thoſe Counſels, contrary to the freedome and liberty of Parliament; in ſo much as above four parts of five of that Aſſembly were likewiſe forced, and are ſtill kept from thence: Our Forts, Towns, Ships, and Arms were taken from Us; Our Money, Rents, and Revenue ſeized and detained; and that then a powerfull and formidable Army was raiſed and conducted againſt Us (a good part of which was raiſed and muſtered before we had given Our Commiſſions for raiſing one man) That all this time we never denied any one thing that by the law we were required to grant, or asked one thing but what by the known law was unqueſtionably Our Own, That we earneſtly preſſed and deſired a Treaty, that we might but know at what price we might prevent
+<pb n="5" facs="tcp:111594:4"/>
+               <!-- PDF PAGE 58 -->the miſeries and deſolation which were threatned; That this was abſolutely and ſcornfully refuſed and rejected, and we compelled with the aſſiſtance of ſuch of Our good Subjects as came to Our ſuccour, to make uſe of Our defenſive Arms for the ſafety of Our Life, and pre<g ref="char:EOLhyphen"/>ſervation of Our Poſteritie. What hath ſince paſſed. That battell hath been given Us, Our own Perſon, and Our Children endeavoured to be deſtroyed, That unheard-of preſſures have been exerciſed upon our poor Subjects, by rapine, plundring and priſonment, And that confuſion which is ſince brought upon the whole excel<g ref="char:EOLhyphen"/>lent frame of Government of this Kingdome, is the diſ<g ref="char:EOLhyphen"/>courſe of Chriſtendome: We are very far from making a Warre with or againſt Our Parliament, of which We Our Self are an aſſentiall part; Our principall quarrell is for the Priviledges of Parliament, aſwell thoſe of the two Houſes, as Our own; if a few perſons had not by arts and force firſt awed, and then driven away the reſt, theſe differences had never ariſen, much leſſe had they ever come to ſo bloudie a deciſion.</p>
+            <p>We have often accuſed theſe perſons againſt whom Our quarrell is, and deſire to bring them to no other tri<g ref="char:EOLhyphen"/>all, then what by the Law of the Land they ought to be tried: And we have been compelled to take up theſe defenſive Arms for the ſafety of Our Life, aſſaulted by rebellious Arms, the defence of the true Reformed Pro<g ref="char:EOLhyphen"/>teſtant Religion, ſcornfully invaded by Browniſts, A<g ref="char:EOLhyphen"/>nabaptiſts, and other independent Sectaries (who in truth are the principall Authors and ſole Fomenters of this unnaturall civill Warre) for the maintenance of the libertie and proprietie of the Subject, maliciouſly viola<g ref="char:EOLhyphen"/>ted by a vaſt unlimited arbitrarie power, and for the pre<g ref="char:EOLhyphen"/>ſervation of the rights, dignitie and priviledges of Parli<g ref="char:EOLhyphen"/>ament,
+<pb n="6" facs="tcp:111594:5"/>
+               <!-- PDF PAGE 59 -->almoſt deſtroyed by tumults and faction. So what hath by violence bin taken from Us, being reſtored, &amp; the freedom of meeting in Parliament being ſecured, We have lately offered (though We have not bin thought worthie of an Anſwer) to disband our Army, and leave all diffe<g ref="char:EOLhyphen"/>rences to the tryall of a full and peaceable convention in Parliament; and We cannot from Our Soul deſire any bleſſing from Heaven more then We doe a peaceable and happy end of theſe unnaturall diſtractions. For the malicious groundleſſe aſperſion of Our having an Army of Papiſts, though in the condition and ſtrait to which We were brought, no man had reaſon to won<g ref="char:EOLhyphen"/>der, if We received aſſiſtance from any of Our Sub<g ref="char:EOLhyphen"/>jects of what Religion ſoever, who by the Laws of the Land are bound to performe all offices of duty and al<g ref="char:EOLhyphen"/>legeance to Us; yet it is well known that we took all poſſible care by Our Proclamations to inhibit any of that Religion to repair to Us, which was preciſely and ſtraitly obſerved (notwithſtanding even at that time We were traduced, as being attended on by none but Pa<g ref="char:EOLhyphen"/>piſts, when there hath not in a moneth together not one Papiſt been near Our Court) though great numbers of that Religion have with all alacrity been entertained in that Rebellious Army againſt Us, and others have been endeavoured to be ſeduced, to whom We had formerly denied employment, as appeares by the examination of many priſoners, of whom We have taken twenty and thirty at a time of one Troup, or Company of that Re<g ref="char:EOLhyphen"/>ligion. What Our opinion is of the Popiſh Profeſſion, Our often ſolemne Proteſtations before Almighty GOD, who knows Our heart, do manifeſt to all the World, and what Our practice is in Religion, is not unknown to Our good, Subjects of that Our Native
+<pb n="7" facs="tcp:111594:5"/>
+               <!-- PDF PAGE 59 -->Kingdome. And as We have omitted no way Our Conſcience and Underſtanding could ſuggeſt to Us, for the advancing &amp; promoting the true Proteſtant Re<g ref="char:EOLhyphen"/>ligion, having proteſted Our readines in a full &amp; peace<g ref="char:EOLhyphen"/>able Convention of Parliament, to conſent to whatſo<g ref="char:EOLhyphen"/>ever ſhal be propoſed to Us by Bill, for the better diſco<g ref="char:EOLhyphen"/>verie and ſpeedier conviction of Recuſants, for the edu<g ref="char:EOLhyphen"/>cation of the Children of Papiſts by Proteſtants in the Proteſtant Religion, for the prevention of the practices of Papiſts againſt the State, And the due execution of the laws againſt them: So We ſhall further embrace any juſt Chriſtian means, to ſuppreſſe Poperie in all Our Dominions: of which inclination and reſolution of Ours, that Our Native Kingdome hath received good evidence.</p>
+            <p>For the other malicious and wicked inſinuation, that Our ſucceſſe here upon the Rebellious Arms raiſed a<g ref="char:EOLhyphen"/>gainſt Us, to deſtroy Us, will have an influence upon Our Kingdome of Scotland, And that We will endea<g ref="char:EOLhyphen"/>vour to get looſe from theſe wholeſome laws which have been enacted by Us there: We can ſay no more, but that Our good Subjects of that Kingdome do well remember with what Deliberation, Our Self being pre<g ref="char:EOLhyphen"/>ſent at the debates, We conſented to theſe Acts. And We do aſſure Our good Subjects there, and call GOD Almighty to witneſſe, of the uprightneſſe and reſoluti<g ref="char:EOLhyphen"/>on of Our heart in that point, That We ſhall alwayes uſe Our utmoſt endeavour to defend and maintain the Rights and Liberties of that Our Native Kingdome, ac<g ref="char:EOLhyphen"/>cording to the Laws Civill and Eccleſiaſticall, eſtabliſh<g ref="char:EOLhyphen"/>ed there, And ſhall no longer look for obedience, then We ſhall govern by the Laws. And We hope, that Our zeal and courage in the defence onely of the Lawes
+<pb n="8" facs="tcp:111594:6"/>
+               <!-- PDF PAGE 60 -->and Government of this Kingdome, And for the ſubject<g ref="char:EOLhyphen"/>ing Our ſelf to ſo great hazard and danger, wil be no Ar<g ref="char:EOLhyphen"/>gument, that when that Work is done, We would paſſe through the ſame difficulties, to alter and invade the Conſtitutions of that Our other Kingdome: We finde diſadvantages enough to ſtruggle with, in the defence of the moſt upright, innocent, juſt cauſe of taking up Arms. And therefore if we wanted the Conſcience, We cannot the diſcretion to tempt GOD in an unjuſt Quarrell: the Laws of that Our Kingdome ſhall be al<g ref="char:EOLhyphen"/>wayes ſacred unto Us: We ſhall refuſe no hazzard to defend them; but ſure We ſhall run none to invade them.</p>
+            <p>And therefore We do conjure all Our good Subjects of that Our native Kingdome, By the long, happy, &amp; un<g ref="char:EOLhyphen"/>interrupted Government of Us, and Our Royal Proge<g ref="char:EOLhyphen"/>nitours over them, By the memory of thoſe many, large, and publick bleſſings they injoyed under Our dear Fa<g ref="char:EOLhyphen"/>ther, By theſe ample favours and benefits they have re<g ref="char:EOLhyphen"/>ceived from Us, By their own ſolemne Nationall Co<g ref="char:EOLhyphen"/>venant, and their obligation of Friendſhip and Brother<g ref="char:EOLhyphen"/>hood with the Kingdome of England, Not to ſuffer themſelves to be miſ-led or corrupted in their affecti<g ref="char:EOLhyphen"/>ons and duetie to Us, by the cunning malice and indu<g ref="char:EOLhyphen"/>ſtrie of theſe ſeditious perſons, and their adherents: but to look upon them as perſons who would involve them in their guilt, and ſacrifice the honour, fidelitie, and al<g ref="char:EOLhyphen"/>legeance of that Our Native Kingdome, to their private end and ambition. And We require Our good Subjects there, to conſider, that the perſons who have contrived, fomented, and do ſtill maintain theſe bloudie diſtracti<g ref="char:EOLhyphen"/>ons, and this unnaturall Civill Warre, what pretence ſoever they make of the care of the true Reformed Pro<g ref="char:EOLhyphen"/>teſtant Religion, are in truth Browniſts and Anabaptiſts,
+<pb n="9" facs="tcp:111594:6"/>
+               <!-- PDF PAGE 60 -->and other independent Sectaries. And though they ſeeme to deſire an Uniformitie of Church-government with Our Kingdome of Scotland, do no more intend, and are als far from allowing the Church-government, by Law eſtabliſhed there, or indeed any Church-go<g ref="char:EOLhyphen"/>vernment whatſoever, as they are from conſenting to the Epiſcopall. And We cannot but expect a greater ſenſe of Our ſufferings, ſince the obligations Wee have laid upon that Our Native Kingdome, are uſed as argu<g ref="char:EOLhyphen"/>ments againſt Us here: And Our free conſenting to ſome Acts of Grace and Favour there (which were asked of Us, by reaſon of Our neceſſary reſidence from thence) hath encouraged theſe ill affected perſons, to en<g ref="char:EOLhyphen"/>deavour by force to obtain the ſame here, where Wee uſually reſide.</p>
+            <p>To conclude, We cannot doubt Our good Subjects there, will ſo far hearken to the treaſon and malice of Our enemies, as to interrupt their own preſent peace and happineſſe. And God ſo deal <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h Us and Our Poſte<g ref="char:EOLhyphen"/>rity, as We inviolably obſerve the Laws and Statutes of that Our Native Kingdome, and the Proteſtations We have ſo often made to this, for the defence of the true reformed Proteſtant Religion, the Laws of the Land, and the juſt Priviledges and Freedome of Parliaments.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
